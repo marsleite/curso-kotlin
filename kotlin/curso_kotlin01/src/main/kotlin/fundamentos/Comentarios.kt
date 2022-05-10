@@ -8,5 +8,4 @@ package fundamentos
 fun main() {
     // Comentando uma linha de comando
     println("Comentando em uma linha")
-
 }
