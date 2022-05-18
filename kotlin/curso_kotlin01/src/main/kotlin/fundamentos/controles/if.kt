@@ -5,7 +5,5 @@ fun main() {
 
     if (nota >= 7.0) {
         println("Aprovado")
-    } else {
-        println("reprovado")
     }
 }
